@@ -1,0 +1,52 @@
+body{background-color: rgb(89, 52, 52);}
+            h1{text-align: center; font-size: 100px; color: rgb(218, 11, 11);}
+            h2{text-align: center; font-size: 60px; color: rgb(230, 220, 220);}
+
+            .veg1{margin-left: 80px; border-radius: 10%;}
+            .dveg1{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 80px;}
+            .vp1:hover .dveg1{display: block;}
+
+            .veg2{margin-left: 900px; border-radius: 10%; margin-top: 10px;}
+            .dveg2{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 900px;}
+            .vp2:hover .dveg2{display: block;}
+
+            .veg3{margin-left: 80px; border-radius: 10%;}
+            .dveg3{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 80px;}
+            .vp3:hover .dveg3{display: block;}
+
+            .nonveg1{margin-left: 80px; border-radius: 10%;}
+            .dnvp1{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 80px;}
+            .nvp1:hover .dnvp1{display: block;}
+
+            .nonveg2{margin-left: 900px;border-radius: 10%;}
+            .dnvp2{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 900px;}
+            .nvp2:hover .dnvp2{display: block;}
+
+            .nonveg3{margin-left: 80px; border-radius: 10%;}
+            .dnvp3{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 80px;}
+            .nvp3:hover .dnvp3{display: block;}
+
+            .side1{margin-left: 80px; border-radius: 10%;}
+            .dsid1{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 80px;}
+            .sid1:hover .dsid1{display: block;}
+
+            .side2{margin-left: 900px; border-radius: 10%;}
+            .dsid2{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 900px;}
+            .sid2:hover .dsid2{display: block;}
+
+            .side3{margin-left: 90px; border-radius: 10%;}
+            .dsid3{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 90px;}
+            .sid3:hover .dsid3{display: block;}
+
+            .bever1{margin-left: 80px; border-radius: 10%;}
+            .dbv1{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 80px;}
+            .bv1:hover .dbv1{display: block;}
+
+            .bever2{margin-left: 900px; border-radius: 10%;}
+            .dbv2{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 900px;}
+            .bv2:hover .dbv2{display: block;}
+
+            .bever3{margin-left: 90px; border-radius: 10%;}
+            .dbv3{ display: none;padding: 10px;background-color: lightgray; font-size: 15px; width: 300px; margin-left: 80px;}
+            .bv3:hover .dbv3{display: block;}
+            a{text-decoration: none;}
